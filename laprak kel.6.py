@@ -1,19 +1,19 @@
 #cara membuat class
-class Mobil:
+class MobilAn:
     
     def __init__(self,brand,harga): #(__init__ = method)
         self.brand = brand
         self.harga = harga
 #kendaraan1 = objek (object) ; Mobil(‘TOYOTA’,1000) = kelas (class)
-kendaraan1 = Mobil('TOYOTA',500)
+kendaraan1 = MobilAn('TOYOTA',500)
 print(kendaraan1.brand)
 print(kendaraan1.harga)
 
-kendaraan2 = Mobil('MITSUBISHI',1000)
+kendaraan2 = MobilAn('MITSUBISHI',1000)
 print(kendaraan2.brand)
 print(kendaraan2.harga)
 
-kendaraan3 = Mobil('BMW',12000)
+kendaraan3 = MobilAn('BMW',12000)
 print(kendaraan3.brand)
 print(kendaraan3.harga)
 print("=================================================");
