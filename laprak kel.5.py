@@ -9,7 +9,6 @@ dict.clear(worldcup)
 print(worldcup)
 print("=========================================")
 print("=========================================")
-print("=========================================")
 #menyalin dictionary  dengan metode copy()
 dictionary1 = {
     "partai": "Banteng Merah",
