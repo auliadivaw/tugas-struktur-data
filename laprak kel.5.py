@@ -5,6 +5,8 @@ worldcup= dict(
    nama_pemain = ("Messi","Mbappe","Modric","Hakimi","Ramos"),
    pemain_terbaik = "Messi",
    pemain_terbaik = "Messi",
+   pemain_terbaik = "Messi",
+   pemain_terbaik = "Messi",
 )
 dict.clear(worldcup)
 print(worldcup)
