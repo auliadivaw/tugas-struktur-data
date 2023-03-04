@@ -4,7 +4,7 @@ worldcup= dict(
    nama_klub = ("Argentina","Portugal","Prancis","Maroko","Kroasia"),
    nama_pemain = ("Messi","Mbappe","Modric","Hakimi","Ramos"),
    pemain_terbaik = "Messi",
-   pemain_terbaik = "Messi",
+   pemain_terbaik = "Abdul"
 )
 dict.clear(worldcup)
 print(worldcup)
